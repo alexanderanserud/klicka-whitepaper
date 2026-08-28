@@ -3,7 +3,7 @@
 # Klicka AI: Low-latency Attended Automation using On-Premise UI-Agents
 
 **Authors:**
-[Alexander Anserud](https://www.linkedin.com/in/alexander-anserud/) ¤ [Tobias Norlund](https://www.linkedin.com/in/tobiasnorlund/)
+[Alexander Anserud](https://www.linkedin.com/in/alexander-anserud/) , [Tobias Norlund](https://www.linkedin.com/in/tobiasnorlund/)
 
 ![image info](assets/image9.gif)
 
